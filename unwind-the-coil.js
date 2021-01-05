@@ -1,7 +1,7 @@
 // You have a coiled snake matrix.  Look at the numerical order to understand the pattern that must be returned.
 
 const snakeMatrix = [
-    [1, 2, 3, 4],
+    [ 1, 2, 3, 4],
     [ 12, 13, 14, 5],
     [ 11, 16, 15, 6],
     [ 10, 9, 8, 7]
