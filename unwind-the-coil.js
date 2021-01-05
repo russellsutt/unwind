@@ -1,5 +1,5 @@
 // You have a coiled snake matrix.  Look at the numerical order to understand the pattern that must be returned.
-// This must be scalable so it is not limited to a 4x4 matrix.
+// This must be scalable so your solution cannot be limited to a 4x4 matrix.
 
 const snakeMatrix = [
     [ 1, 2, 3, 4 ],
