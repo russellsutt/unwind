@@ -15,7 +15,7 @@ const snakeMatrix = [
 
 // You can reverse arrays.
 
-// You can return segments in different lines.  But they must not be returned in an array.  (Check the spread operator)
+// You can return segments in different lines.  But they must not be returned in an array.  (Check the spread operator => ...matrix[0])
 
 // Can we use recursion here?
 
@@ -23,6 +23,7 @@ const snakeMatrix = [
 
 
 unwind = (matrix) => {
+    console.log(matrix)
     // your code here
 }
 
