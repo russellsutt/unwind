@@ -21,6 +21,6 @@ unwind(snakeMatrix)
 
 // You can reverse arrays.
 
-// You can return segments in different lines.  But they must not be returned in an array.  (Check the spread operator, and consoloe.log() it!)
+// You can return segments in different lines.  But they must not be returned in an array.  (Check the spread operator)
 
 // Have fun!
