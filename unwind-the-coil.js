@@ -12,17 +12,8 @@ const snakeMatrix = [
 // You may not flatten ( making it one array ) and sort numerically. If I replace 3 with 20, 12 with "string", and 16 with "16"
 // I expect 1, 2, 20, 4, 5, 6, 7, 8, 9, 10, 11, "string", 13, 14, 15, "16".
 
-// You can reverse arrays.
-
-// You can return segments in different lines.  But they must not be returned in an array.  (Check the spread operator => ...matrix[0])
-
-// Can we use recursion here?
-
-// Have fun!
-
 
 unwind = (matrix) => {
-    console.log(matrix)
     // your code here
 }
 
